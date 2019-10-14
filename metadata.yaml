@@ -1,11 +1,16 @@
 _repo: Devil-Worship-The-Sacred-Books-and-Traditions-of-the-Yezidiz_60468
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60468-h/images/cover.jpg
 creator:
   author:
     agent_name: Joseph, Isya
     gutenberg_agent_id: '50968'
     url: http://www.gutenberg.org/2009/agents/50968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60468#Devil-Worship-The-Sacred-Books-and-Traditions-of-the-Yezidiz
 gutenberg_issued: '2019-10-10'
 gutenberg_type: Text
 identifiers:
